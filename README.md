@@ -20,3 +20,5 @@ Not sure I will have to actually write this, so very interested in any takers ou
 
 timbl
 2016-12-03
+
+See eg https://www.npmjs.com/package/dav
